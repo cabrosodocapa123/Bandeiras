@@ -1,0 +1,68 @@
+body{
+    background-color: gray;
+    margin: none;  
+}
+.flag {
+    width: 600px;
+    margin: 40px;
+    background-color: white;
+}
+
+#one,
+#two,
+#three {
+    height: 150px;
+    background-color: crimson;
+}
+
+#two {
+    height: 150px;
+    background-color: brown;
+}
+
+#three {
+    background-color: darkred;
+}
+
+#four,
+#five,
+#six {
+    height: 150px;
+    background-color: cadetblue;
+}
+
+#five {
+    background-color: cornflowerblue;
+}
+
+#six {
+    background-color: darkcyan;
+}
+
+#seven,
+#eight,
+#nine {
+    height: 150px;
+    background-color: greenyellow;
+}
+
+#eight {
+    background-color: blueviolet;
+}
+
+#nine {
+    background-color: gold;
+}
+
+#white {
+    height: 150px;
+    background-color: white; 
+}
+
+#red {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 100%;
+    margin-left: 220px;
+}
